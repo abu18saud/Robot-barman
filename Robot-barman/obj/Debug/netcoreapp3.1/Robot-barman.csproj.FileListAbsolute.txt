@@ -1,0 +1,13 @@
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Robot-barman\Robot-barman\bin\Debug\netcoreapp3.1\Robot-barman.exe
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Robot-barman\Robot-barman\bin\Debug\netcoreapp3.1\Robot-barman.deps.json
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Robot-barman\Robot-barman\bin\Debug\netcoreapp3.1\Robot-barman.runtimeconfig.json
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Robot-barman\Robot-barman\bin\Debug\netcoreapp3.1\Robot-barman.runtimeconfig.dev.json
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Robot-barman\Robot-barman\bin\Debug\netcoreapp3.1\Robot-barman.dll
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Robot-barman\Robot-barman\bin\Debug\netcoreapp3.1\Robot-barman.pdb
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Robot-barman\Robot-barman\obj\Debug\netcoreapp3.1\Robot-barman.csprojAssemblyReference.cache
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Robot-barman\Robot-barman\obj\Debug\netcoreapp3.1\Robot-barman.AssemblyInfoInputs.cache
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Robot-barman\Robot-barman\obj\Debug\netcoreapp3.1\Robot-barman.AssemblyInfo.cs
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Robot-barman\Robot-barman\obj\Debug\netcoreapp3.1\Robot-barman.csproj.CoreCompileInputs.cache
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Robot-barman\Robot-barman\obj\Debug\netcoreapp3.1\Robot-barman.dll
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Robot-barman\Robot-barman\obj\Debug\netcoreapp3.1\Robot-barman.pdb
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Robot-barman\Robot-barman\obj\Debug\netcoreapp3.1\Robot-barman.genruntimeconfig.cache
